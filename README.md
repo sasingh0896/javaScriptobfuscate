@@ -1,12 +1,12 @@
 # javaScriptObfuscate
 This is tool for obfuscate your Nodejs Project
 
-#########################################################################################
+########################################################################################
 # CAUTION:
 # MAKE SURE THAT YOU DONT APPLY THIS TOOL TO YOUR ORIGINAL PROJECT FOLDER
 # THIS TOOL IS IRREVERSIBLE 
 # MAKE COPY OF PROJECT FOLDER AND TRY THIS TOOL
-#########################################################################################
+########################################################################################
 
 PREREQUISITE
 NODE(>6.0), NPM installed at your machine
